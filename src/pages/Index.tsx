@@ -16,7 +16,7 @@ const Index = () => {
         <CaseStudies />
         <Testimonials />
         <img
-          src="https://api.builder.io/api/v1/image/assets/TEMP/672b902679b5b93444c4db7481df79a2fe6131f2?width=2880"
+          src="banner.png"
           alt="Call to action banner"
           className="w-full h-auto object-cover"
         />

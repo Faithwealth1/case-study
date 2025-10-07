@@ -30,7 +30,7 @@ export const Hero: React.FC = () => {
           <img
             src="analytics.png"
             alt="Analytics dashboard"
-            className="flex w-[261px] h-[335px] flex-col items-start shrink-0 absolute rounded-[30px] border-[10px] border-solid border-white left-0 top-[193px] max-md:w-[70%] max-md:h-auto max-md:relative max-md:top-[-50px] max-md:left-0"
+            className="flex w-[261px] h-[335px] flex-col items-start shrink-0 absolute rounded-[30px] left-0 top-[193px] max-md:w-[70%] max-md:h-auto max-md:relative max-md:top-[-50px] max-md:left-0"
           />
         </div>
       </div>
